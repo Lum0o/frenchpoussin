@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_layout_questions",
+  "info": {
+    "displayName": "question",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "anwser": {
+      "type": "richtext"
+    }
+  }
+}

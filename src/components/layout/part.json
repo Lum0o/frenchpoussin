@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_layout_parts",
+  "info": {
+    "displayName": "Part",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "question": {
+      "type": "component",
+      "repeatable": true,
+      "component": "layout.question"
+    }
+  }
+}
